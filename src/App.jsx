@@ -1,6 +1,7 @@
 // src/App.jsx
 import React from 'react';
 import  MenuPage  from './pages/MenuPage';
+//hello mic check ...hello hello
 
 function App() {
   return (
